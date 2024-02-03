@@ -1,7 +1,12 @@
 ### Hi there 👋
 
 🔭I 
-U+1F916 
+
+🚀What I'm up to
+
+🌐 Connect with me
+[https://www.linkedin.com/in/stephen-sodi-0814a71b9/](url)
+
 <!--
 **SMcQ618/SMcQ618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
