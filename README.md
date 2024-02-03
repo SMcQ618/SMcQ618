@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭I 
+U+1F916 
 <!--
 **SMcQ618/SMcQ618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
