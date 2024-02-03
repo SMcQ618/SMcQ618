@@ -1,4 +1,5 @@
-###                                                      Hi there 👋 I'm Stephen Sodipo
+###                                                 Hello there,👋 I'm Stephen Sodipo
+                
 
 # 💫 About Me:
 I am a second-year Computer Engineering and Computer Science at Northeastern University.<br>With a growing passion for robotics, high-performance computing, and exploring the realm of coding. <br><br>I am currently working with a NURobotics on a building an interacting Robotic Arm that uses computer<br>vision to replicate the movements of the user. <br>While also learning more about High Performance Computing and parallel computing through CPU and GPU<br>through the works of NVIDIA's CUDA
