@@ -20,10 +20,7 @@ I am a second-year Computer Engineering and Computer Science at Northeastern Uni
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SMcQ618&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SMcQ618&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
----
+-----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
