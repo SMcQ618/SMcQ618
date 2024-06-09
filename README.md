@@ -16,7 +16,7 @@ I am a second-year Computer Engineering and Computer Science at Northeastern Uni
 # Hardware:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SMcQ618&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=SMcQ618&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SMcQ618&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
