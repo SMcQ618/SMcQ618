@@ -2,7 +2,7 @@
                 
 
 # 💫 About Me:
-I am a third-year Computer Engineering and Computer Science at Northeastern University. With a growing passion for robotics, high-performance computing, and exploring the realm of coding. I am currently working with a NURobotics 🤖 on a building an interacting Robotic Arm that uses computer vision to replicate the movements of the user. While also learning more about High Performance Computing and parallel computing through CPU and GPU through the works of NVIDIA's CUDA
+I am a fourth-year Computer Engineering and Computer Science at Northeastern University. With a growing passion for robotics, high-performance computing, and exploring the realm of coding. I am currently working with a NURobotics 🤖 on a building an interacting Robotic Arm that uses computer vision to replicate the movements of the user. While also learning more about High Performance Computing and parallel computing through CPU and GPU through the works of NVIDIA's CUDA
 
 # Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
