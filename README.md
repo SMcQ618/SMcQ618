@@ -2,13 +2,15 @@
                 
 
 # 💫 About Me:
-I am a fourth-year Computer Engineering and Computer Science at Northeastern University. With a growing passion for robotics, high-performance computing, and exploring the realm of coding. I am currently working with a NURobotics 🤖 on a building an interacting Robotic Arm that uses computer vision to replicate the movements of the user. While also learning more about High Performance Computing and parallel computing through CPU and GPU through the works of NVIDIA's CUDA. To contact me, I am reachable at stephensodipo13@gmail.com
+I am a fourth-year Computer Engineering and Computer Science at Northeastern University. With a growing passion for robotics, high-performance computing, and exploring the realm of coding. I am currently working with a NURobotics 🤖 on a building an interacting Robotic Arm that uses computer vision to replicate the movements of the user. While also learning more about High Performance Computing and parallel computing through research with a Distinguished Professor.
+
+To contact me, I am reachable at stephensodipo13@gmail.com
 
 # Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 # Libraries:
-![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) [Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  ![OpenMP](https://img.shields.io/badge/OpenMP-008080?style=for-the-badge&logo=OpenMP-95&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=fff) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  ![OpenMP](https://img.shields.io/badge/OpenMP-008080?style=for-the-badge&logo=OpenMP-95&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 
 # Hardware:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
