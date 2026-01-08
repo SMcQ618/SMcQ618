@@ -13,9 +13,6 @@ I am a fourth-year Computer Engineering and Computer Science at Northeastern Uni
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Keysight' src='https://img.shields.io/badge/Keysight_Waveform Generator-100000?style=for-the-badge&logo=Keysight&logoColor=000000&labelColor=000000&color=ED0F0F'/></a>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SMcQ618&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 -----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
